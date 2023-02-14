@@ -5,7 +5,7 @@
 🌐 https://www.futurepedia.io/ -website that update about all new AI tools release in market</br>
 🦾https://plugins.jetbrains.com/plugin/20085-codeassist -jetbrains extention that generates, changes, completes the code and answers questions.
 
-learning js through games:
+Learning js through games:
 https://codecombat.com/
 https://www.codewars.com/
 https://lab.reaal.me/jsrobot/
