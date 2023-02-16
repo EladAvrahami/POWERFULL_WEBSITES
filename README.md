@@ -14,6 +14,8 @@ Find alternative programms to anything that supply simular services: https://alt
 Creat Free AI videos : https://www.synthesia.io/free-ai-video-demo#HowTo </br>
 Give you start code template to start your project: https://library.relume.io/ </br>
 A lot of lectures and courses: https://screenz.live/he </br>
+website that tell you about ai tools : https://lachief.io/
+
 
 
 
