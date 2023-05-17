@@ -22,6 +22,8 @@ https://vscode.dev/github/EladAvrahami/Node.js-Natours <b> or </b> </br>
 add<b> s1 </b>after the github word like this:</br>
 https://github1s.com/EladAvrahami/Node.js-Natours/blob/HEAD/1-starter/index.js</br>
 
+programing for kids : https://projects.raspberrypi.org/en
+
 
 
 
