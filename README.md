@@ -18,7 +18,7 @@ Watch any github repo in vscode display without clone/downloud it :</br>
 add <b>vscode.dev</b> before the repo address like this:</br>
 https://vscode.dev/github/EladAvrahami/Node.js-Natours <b> or </b> </br>
 add<b> s1 </b>after the github word like this:</br>
-https://github1s.com/EladAvrahami/Node.js-Natours/blob/HEAD/1-starter/index.js</br>
+https://github1s.com/EladAvrahami/Node.js-Natours/blob/HEAD/1-starter/index.js </br>
 
 programing for kids : https://projects.raspberrypi.org/en <\br>
 Learning programming through games: (3 options) </br>
