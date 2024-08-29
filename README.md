@@ -28,6 +28,15 @@ https://codecombat.com/ </br>
 https://www.codewars.com/ </br>
 https://lab.reaal.me/jsrobot/ </br>
 
+https://unstuckstudy.com/ unstuckstudy summarize study with AI include videos and pdf  </br>
+how to work with this FREE tool: </br>
+1. https://unstuckstudy.com/upload.mp4
+2. https://unstuckstudy.com/chat.mp4
+3. Create a class
+Want to chat using all your course knowledge at once? Easy! Upload your materials into a course, and create multiple chats drawing from that pooled knowledge whenever you need a boost. https://unstuckstudy.com/course.mp4
+4. Need a refresher or have a specific question? Click the "Get Help" dropdown in the bottom left. You`ll find this tutorial and a way to contact our support team directly.
+
+
 
 
 
