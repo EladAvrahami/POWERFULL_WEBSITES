@@ -43,8 +43,8 @@ how to work with this FREE tool: </br>
 Want to chat using all your course knowledge at once? Easy! Upload your materials into a course, and create multiple chats drawing from that pooled knowledge whenever you need a boost. https://unstuckstudy.com/course.mp4
 4. Need a refresher or have a specific question? Click the "Get Help" dropdown in the bottom left. You`ll find this tutorial and a way to contact our support team directly.
 
-
-
+</br></br>
+fake credit card detailes for testing https://neapay.com/online-tools/credit-card-number-generator-validator.html
 
 
 
