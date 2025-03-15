@@ -8,6 +8,12 @@
 
 Lovable AI  - https://docs.lovable.dev/introduction</br>
 https://rork.app/ - Build any mobile app, fast.</br>
+https://beautiful-mousse-3bfe96.netlify.app/  first game -Chicken Invaders 
+
+
+
+
+
 Find alternative programs to anything that supply similar services: https://alternativeto.net/ </br>
 Creat Free AI videos : https://www.synthesia.io/free-ai-video-demo#HowTo </br>
 Give you start code template to start your project: https://library.relume.io/ </br>
