@@ -8,9 +8,9 @@
 
 Lovable AI  - https://docs.lovable.dev/introduction</br>
 https://rork.app/ - Build any mobile app, fast.</br>
-https://beautiful-mousse-3bfe96.netlify.app/  first game -Chicken Invaders 
+https://beautiful-mousse-3bfe96.netlify.app/  first game -Chicken Invaders </br>
 
-
+https://projects.raspberrypi.org/en/pathways/raspberry-pi-beginners -Raspberry Pi for beginners
 
 
 
